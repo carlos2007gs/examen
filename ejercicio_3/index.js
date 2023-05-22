@@ -1,0 +1,1 @@
+let tecla = promp("elija una letra A, B ,C o D")
